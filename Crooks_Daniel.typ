@@ -113,7 +113,7 @@
   gutter: 0.5em,
   [*California Baptist University* $dot$ Riverside, CA],
   [Sep 2022 – Apr 2026],
-  [B.S. in Computer Science, GPA: 3.61]
+  [B.S. in Computer Science, GPA: 3.64]
 )
 
 #section("Work Experience")
@@ -179,7 +179,7 @@
   "Terminal client for Google Messages, with an interactive TUI and a scriptable CLI",
   "Jul 2026 – Present",
   (
-    "Built terminal QR-code authentication against libgm's reverse-engineered RCS pairing protocol.",
+    "Implemented cookie-based Google Account pairing with on-phone emoji confirmation over libgm's RCS protocol.",
     "Interactive TUI with vi-mode navigation, inline terminal image previews with ueberzug, attachments, and reactions.",
     "Refactored the daemon into an IPC server over Unix sockets so clients share sessions without corrupting auth tokens.",
   )
@@ -292,7 +292,7 @@
 
 #section("Skills")
 #skills(
-  "Languages", ("Javascript", "HTML / CSS", "PHP", "Java", "C++"),
-  "Libraries", ("React", "NodeJS", "jQuery", "TailwindCSS", "Bootstrap"),
+  "Languages", ("C / C++", "Go", "JavaScript", "Java", "Python", "SQL", "PHP", "HTML / CSS"),
+  "Libraries", ("Bubble Tea", "Cobra", "raylib", "SvelteKit", "React", "NodeJS", "TailwindCSS", "Bootstrap"),
   "Additional", ("AWS", "GCP", "BASH / Linux", "GIT", "Jira", "WordPress"),
 )
