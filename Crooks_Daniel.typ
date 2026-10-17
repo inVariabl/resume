@@ -98,7 +98,7 @@
     font: secondary-font)[Daniel J. Crooks]
   #v(-2em)
   #text(size: 1em)[
-    Monrovia, CA $dot$
+    La Verne, CA $dot$
     #link("mailto:danonguitar@gmail.com")[danonguitar\@gmail.com] $dot$
     #link("tel:+16268255894")[(626) 825-5894] $dot$
     #link("https://linkedin.com/in/danieljcrooks")[linkedin.com/in/danieljcrooks] $dot$
